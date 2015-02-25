@@ -1,0 +1,41 @@
+body {
+	background-color: #1f1f1f;
+}
+
+header{
+	text-align: center;
+	height: 100px;
+	width: 600px;
+	background-color: #780000;
+	color: #f0f0f0;
+	border: solid 2px;
+	border-radius: 20px;
+	border-color: #707070;
+	margin: 1.5em auto;
+}
+
+#essay{
+	background-color: #780000;
+	color: #F0f0f0;
+	border: solid 5px;
+	border-color: #707070;
+	border-radius: 10px;
+	margin: 1.5em auto;
+	width: 500px;
+	padding: 5px
+}
+
+#references{
+	background-color: #780000;
+	color: #F0f0f0;
+	border: solid 5px;
+	border-color: #707070;
+	border-radius: 10px;
+	margin: 1.5em auto;
+	width: 500px;
+	padding: 5px;
+}
+
+footer{
+	color: #f0f0f0;
+}
